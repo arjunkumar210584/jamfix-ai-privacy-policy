@@ -1,0 +1,1 @@
+# jamfix-ai-privacy-policy
