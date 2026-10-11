@@ -1,10 +1,10 @@
 # Privacy Policy — JAMFIX
 
-**Effective date:** [Day Month Year, e.g. 11 October 2026]  
-**App name:** JAMFIX  
+**Effective date:** [11 October 2026]  
+**App name:** JAMFIX AI
 **Android application ID:** `jam.fix`  
-**Developer / data controller:** [Your legal name or company name]  
-**Contact:** [your-email@example.com]
+**Developer / data controller:** [Arjun Kumar]  
+**Contact:** [arjunkumar210584@gmail.com]
 
 ---
 
@@ -182,5 +182,5 @@ We may update this Privacy Policy from time to time. We will post the updated ve
 
 For privacy questions or requests:
 
-**Email:** [your-email@example.com]  
-**Developer:** [Your legal name or company name]
+**Email:** [arjunkumar210584@gmail.com]  
+**Developer:** [Arjun Kumar]
